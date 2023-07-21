@@ -1,0 +1,28 @@
+if not text:
+    speak="tôi có thể giúp gì cho" format(name)
+elif "tâm trạng" in text:
+    speak="hôm nay tôi buồn"
+elif "khỏe" in text:
+    speak=""
+elif "" in text:
+    speak=" "
+elif "" in text:
+    speak=" "
+elif "" in text:
+    speak=" "
+elif "" in text:
+    speak=" "
+elif "" in text:
+    speak=" "
+elif "" in text:
+    speak=" "
+elif "" in text:
+    speak=" "
+elif "" in text:
+    speak=" "
+elif "" in text:
+    speak=" "
+elif "" in text:
+    speak=" "
+else
+    speak=""
