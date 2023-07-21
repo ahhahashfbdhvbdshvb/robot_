@@ -1,1 +1,9 @@
-# robot_
+#_os
+#_speech_recognition
+#_gTTS
+#_playsound
+#_datetime
+#_serial
+#_openai
+#_config
+#_playsound
